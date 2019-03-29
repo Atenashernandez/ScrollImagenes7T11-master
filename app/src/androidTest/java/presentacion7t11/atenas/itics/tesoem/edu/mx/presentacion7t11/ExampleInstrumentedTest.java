@@ -1,4 +1,4 @@
-package presentacion7t11.atenas.itics.tesoem.edu.mx.presentacion7t11;
+package presentacion7t11.atenas.itics.tesoem.edu.mx.scrollimagen;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("presentacion7t11.atenas.itics.tesoem.edu.mx.presentacion7t11", appContext.getPackageName());
+        assertEquals("presentacion7t11.atenas.itics.tesoem.edu.mx.scrollimagen, appContext.getPackageName());
     }
 }
